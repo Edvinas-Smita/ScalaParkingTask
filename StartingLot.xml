@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<garage lowestFloor="-3">
+    <floor space="3"/>
+    <floor space="3"/>
+    <floor space="0"/>
+    <floor space="2"/>
+    <floor space="1"/>
+    <floor space="2"/>
+    <floor space="1"/>
+    <floor space="3"/>
+    <floor space="3"/>
+</garage>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<register>
+    <vehicle plate="ABC123">
+        <type>petrol/diesel</type>
+    </vehicle>
+    <vehicle plate="ABC234">
+        <type>electric</type>
+    </vehicle>
+    <vehicle plate="ABC345">
+        <type>van</type>
+    </vehicle>
+    <vehicle plate="BCD123">
+        <type>other</type>
+    </vehicle>
+    <vehicle plate="BCD234"/>
+    <vehicle plate="BCD234">
+        <type>van</type>
+    </vehicle>
+</register>
